@@ -1,0 +1,14 @@
+.important {
+  font-weight: bold;
+  color: indianred;
+}
+
+.done {
+  text-decoration: line-through;
+}
+
+.todo-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

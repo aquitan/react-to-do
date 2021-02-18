@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d16001b6-f49b-4d3e-9d9f-57054745f7e0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/add-item/add-item.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/add-item/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/app-header/app-header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/app-header/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/app/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/app/app.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/app/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/input-search/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/input-search/input-search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/input-search/input-search.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/item-status-filter/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/item-status-filter/item-status-filter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/todo-list-item/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/todo-list-item/list-items.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/todo-list-item/todo-list-item.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/todo-list/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/todo-list/todo-list.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/todo-list/todo-list.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kcScJWpqb25a6g0W2U12LVN6TB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d16001b6-f49b-4d3e-9d9f-57054745f7e0" name="Default Changelist" comment="" />
+      <created>1605998464800</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605998464800</updated>
+      <workItem from="1605998465869" duration="7000" />
+      <workItem from="1605998476122" duration="11000" />
+      <workItem from="1605998488997" duration="34000" />
+      <workItem from="1605998524044" duration="918000" />
+      <workItem from="1605999572633" duration="127000" />
+      <workItem from="1605999719385" duration="128000" />
+      <workItem from="1605999859450" duration="4088000" />
+      <workItem from="1606153273552" duration="35000" />
+      <workItem from="1606164553434" duration="4016000" />
+      <workItem from="1606379474089" duration="5277000" />
+      <workItem from="1606582104111" duration="12217000" />
+      <workItem from="1607284448175" duration="5002000" />
+      <workItem from="1607356061781" duration="15000" />
+      <workItem from="1607373791771" duration="8424000" />
+      <workItem from="1607549102668" duration="790000" />
+      <workItem from="1607549929412" duration="609000" />
+      <workItem from="1607596147661" duration="435000" />
+      <workItem from="1607716003253" duration="9804000" />
+      <workItem from="1607892485684" duration="1030000" />
+      <workItem from="1607982696866" duration="1413000" />
+      <workItem from="1608507170933" duration="607000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
